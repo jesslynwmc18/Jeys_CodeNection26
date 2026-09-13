@@ -29,7 +29,7 @@ The main causes we identified are *overcommitting to their many tasks, limited a
 
 *Stakeholders:*
 - *Students* — primary users who manage academic, work, social and personal commitments.
-- *Educational institutions* — interested in supporting sustainable study habits and student wellbeing.
+- *Educational institutions* — interested in supporting sustainable study habits and student well-being.
 - *Student organisations and employers* — contribute commitments that students need to balance.
 
 Existing planning applications such as *Sunsama* provide workload-aware daily planning and help users handle overcommitted schedules. However, its workload approach focuses primarily on planned time and workload thresholds, rather than combining workload with students' own stress experiences and helping them explore different ways to rebalance their schedules.
